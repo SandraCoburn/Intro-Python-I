@@ -12,7 +12,7 @@ import sys
 # YOUR CODE HERE
 
 print('Number of arguments:', len(sys.argv), 'arguments.')
-print('Argument List:', str(sys.argv))
+print('Argument List:', str(sys.argv[1:]))
 
 
 # Print out the OS platform you're using:
