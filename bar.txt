@@ -1,0 +1,3 @@
+This is a new file created with file IO. 
+, There are a few ways to write and read. 
+, To write you use mode=w and it will create a new file if one was not found
